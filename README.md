@@ -1,4 +1,4 @@
-# weather-bot
+# where-weather-bot
 ### Проектная работа по информатике - Telegram-bot weather-where
 ## Описание
 Язык программирования `python`. 
